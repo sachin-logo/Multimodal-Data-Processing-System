@@ -1,0 +1,17 @@
+pillow
+pytesseract
+PyPDF2
+python-docx
+python-pptx
+pdfplumber
+SpeechRecognition
+moviepy
+pydub
+youtube-transcript-api
+streamlit
+openai
+requests
+pyyaml
+pytube
+pytest
+google-generativeai # Gemini LLM
